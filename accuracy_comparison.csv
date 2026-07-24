@@ -1,0 +1,6 @@
+Model,Accuracy
+VGG16,0.92347
+ResNet50,0.91347
+InceptionV3,0.93909
+DenseNet121,0.97699
+MobileNetV2,0.95531
